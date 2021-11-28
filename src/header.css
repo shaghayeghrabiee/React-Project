@@ -1,0 +1,15 @@
+.navbar {
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 3px 6px 0 #555;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.navbar a {
+  font-size: 25px;
+  font-weight: bold;
+}
+.navbar input {
+  width: 500px;
+}

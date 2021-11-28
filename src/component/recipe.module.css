@@ -1,0 +1,18 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgb(136, 109, 109);
+  margin: 20px;
+  background-color: white;
+  min-width: 40%;
+  position: relative;
+  display: flex;
+  /* grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-column-gap: 1.5rem;
+  grid-row-gap: 2rem; */
+  flex-direction: row;
+}
+
+.pic {
+  width: 100%;
+  position: absolute;
+}
